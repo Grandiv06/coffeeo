@@ -2256,37 +2256,33 @@
 }
 @font-face {
   font-family: Dana;
-  src: local(Dana),
-    url(/assets/DanaFaNum-Regular-coOeJitY.woff2) format("woff2");
+  src: local(Dana), url(./DanaFaNum-Regular-coOeJitY.woff2) format("woff2");
   font-display: swap;
 }
 @font-face {
   font-family: Dana Medium;
-  src: local(Dana), url(/assets/DanaFaNum-Medium-BYIBr52k.woff2) format("woff2");
+  src: local(Dana), url(./DanaFaNum-Medium-BYIBr52k.woff2) format("woff2");
   font-display: swap;
 }
 @font-face {
   font-family: Dana DemiBold;
-  src: local(Dana),
-    url(/assets/DanaFaNum-DemiBold-CFSaPsH0.woff2) format("woff2");
+  src: local(Dana), url(./DanaFaNum-DemiBold-CFSaPsH0.woff2) format("woff2");
   font-display: swap;
 }
 @font-face {
   font-family: Morabba Light;
-  src: local(Morabba Light),
-    url(/assets/Morabba-Light-BCRlX9qU.woff2) format("woff2");
+  src: local(Morabba Light), url(./Morabba-Light-BCRlX9qU.woff2) format("woff2");
   font-display: swap;
 }
 @font-face {
   font-family: Morabba Medium;
   src: local(Morabba Medium),
-    url(/assets/Morabba-Medium-BDzGfDQE.woff2) format("woff2");
+    url(./Morabba-Medium-BDzGfDQE.woff2) format("woff2");
   font-display: swap;
 }
 @font-face {
   font-family: Morabba Bold;
-  src: local(Morabba Bold),
-    url(/assets/Morabba-Bold-Cbgld-JA.woff2) format("woff2");
+  src: local(Morabba Bold), url(./Morabba-Bold-Cbgld-JA.woff2) format("woff2");
   font-display: swap;
 }
 body {
