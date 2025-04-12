@@ -2290,7 +2290,7 @@
   font-display: swap;
 }
 body {
-  background-image: url(../assets/headerBgDesktop-CXr2nQ3t.png);
+  background-image: url(./headerBgDesktop-CXr2nQ3t.png);
   background-repeat: no-repeat;
 }
 @property --tw-translate-x {
